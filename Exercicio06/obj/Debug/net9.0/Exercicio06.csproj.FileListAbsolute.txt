@@ -1,0 +1,14 @@
+C:\Users\90124765858\Desktop\Back End\Exercicio06\bin\Debug\net9.0\Exercicio06.exe
+C:\Users\90124765858\Desktop\Back End\Exercicio06\bin\Debug\net9.0\Exercicio06.deps.json
+C:\Users\90124765858\Desktop\Back End\Exercicio06\bin\Debug\net9.0\Exercicio06.runtimeconfig.json
+C:\Users\90124765858\Desktop\Back End\Exercicio06\bin\Debug\net9.0\Exercicio06.dll
+C:\Users\90124765858\Desktop\Back End\Exercicio06\bin\Debug\net9.0\Exercicio06.pdb
+C:\Users\90124765858\Desktop\Back End\Exercicio06\obj\Debug\net9.0\Exercicio06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90124765858\Desktop\Back End\Exercicio06\obj\Debug\net9.0\Exercicio06.AssemblyInfoInputs.cache
+C:\Users\90124765858\Desktop\Back End\Exercicio06\obj\Debug\net9.0\Exercicio06.AssemblyInfo.cs
+C:\Users\90124765858\Desktop\Back End\Exercicio06\obj\Debug\net9.0\Exercicio06.csproj.CoreCompileInputs.cache
+C:\Users\90124765858\Desktop\Back End\Exercicio06\obj\Debug\net9.0\Exercicio06.dll
+C:\Users\90124765858\Desktop\Back End\Exercicio06\obj\Debug\net9.0\refint\Exercicio06.dll
+C:\Users\90124765858\Desktop\Back End\Exercicio06\obj\Debug\net9.0\Exercicio06.pdb
+C:\Users\90124765858\Desktop\Back End\Exercicio06\obj\Debug\net9.0\Exercicio06.genruntimeconfig.cache
+C:\Users\90124765858\Desktop\Back End\Exercicio06\obj\Debug\net9.0\ref\Exercicio06.dll
