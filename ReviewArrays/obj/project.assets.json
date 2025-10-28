@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\90124765858\\Desktop\\back_end\\Hello\\Hello.csproj",
-      "projectName": "Hello",
-      "projectPath": "C:\\Users\\90124765858\\Desktop\\back_end\\Hello\\Hello.csproj",
+      "projectUniqueName": "C:\\Users\\90124765858\\desktop\\back_end\\ReviewArrays\\ReviewArrays.csproj",
+      "projectName": "ReviewArrays",
+      "projectPath": "C:\\Users\\90124765858\\desktop\\back_end\\ReviewArrays\\ReviewArrays.csproj",
       "packagesPath": "C:\\Users\\90124765858\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\90124765858\\Desktop\\back_end\\Hello\\obj\\",
+      "outputPath": "C:\\Users\\90124765858\\desktop\\back_end\\ReviewArrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\90124765858\\AppData\\Roaming\\NuGet\\NuGet.Config"
