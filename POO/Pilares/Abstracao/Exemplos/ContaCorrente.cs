@@ -2,6 +2,7 @@ namespace Exemplos
 {
     public class ContaCorrente : ContaBancaria
     {
+        public double Taxa = 5;
         public override void Depositar(double valor)
         {
             if (valor <= 0)

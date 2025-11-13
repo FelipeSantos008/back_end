@@ -2,6 +2,7 @@ namespace Exemplos
 {
     public class ContaPoupanca : ContaBancaria
     {
+        private double Taxa = 0.03;
         public override void Depositar(double valor)
         {
              if (valor <= 0)
@@ -17,11 +18,11 @@ namespace Exemplos
         {
             //aplicar a taxa de 3% no saque
 
-            double totalComTaxa = valor * 0.03;
+            double totalComTaxa = valor + (valor * Taxa);
 
-            if (valor <= 0 || totalComTaxa <= Saldo)
+            if (valor <= 0 || totalComTaxa >= Saldo)
             {
-                System.Console.WriteLine("O valor deve ser maiuor que R$0,00");
+                System.Console.WriteLine("O valor deve ser positivo e ter dinheiro suficiente para o sauqe (Conta Corrente)");
                 return;
             }
 
