@@ -1,0 +1,15 @@
+C:\Users\90124765858\Desktop\back_end\POO\Pilares\Interface\Exemplos\ExercicioInterface\bin\Debug\net9.0\ExercicioInterface.exe
+C:\Users\90124765858\Desktop\back_end\POO\Pilares\Interface\Exemplos\ExercicioInterface\bin\Debug\net9.0\ExercicioInterface.deps.json
+C:\Users\90124765858\Desktop\back_end\POO\Pilares\Interface\Exemplos\ExercicioInterface\bin\Debug\net9.0\ExercicioInterface.runtimeconfig.json
+C:\Users\90124765858\Desktop\back_end\POO\Pilares\Interface\Exemplos\ExercicioInterface\bin\Debug\net9.0\ExercicioInterface.dll
+C:\Users\90124765858\Desktop\back_end\POO\Pilares\Interface\Exemplos\ExercicioInterface\bin\Debug\net9.0\ExercicioInterface.pdb
+C:\Users\90124765858\Desktop\back_end\POO\Pilares\Interface\Exemplos\ExercicioInterface\obj\Debug\net9.0\ExercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90124765858\Desktop\back_end\POO\Pilares\Interface\Exemplos\ExercicioInterface\obj\Debug\net9.0\ExercicioInterface.AssemblyInfoInputs.cache
+C:\Users\90124765858\Desktop\back_end\POO\Pilares\Interface\Exemplos\ExercicioInterface\obj\Debug\net9.0\ExercicioInterface.AssemblyInfo.cs
+C:\Users\90124765858\Desktop\back_end\POO\Pilares\Interface\Exemplos\ExercicioInterface\obj\Debug\net9.0\ExercicioInterface.csproj.CoreCompileInputs.cache
+C:\Users\90124765858\Desktop\back_end\POO\Pilares\Interface\Exemplos\ExercicioInterface\obj\Debug\net9.0\ExercicioInterface.sourcelink.json
+C:\Users\90124765858\Desktop\back_end\POO\Pilares\Interface\Exemplos\ExercicioInterface\obj\Debug\net9.0\ExercicioInterface.dll
+C:\Users\90124765858\Desktop\back_end\POO\Pilares\Interface\Exemplos\ExercicioInterface\obj\Debug\net9.0\refint\ExercicioInterface.dll
+C:\Users\90124765858\Desktop\back_end\POO\Pilares\Interface\Exemplos\ExercicioInterface\obj\Debug\net9.0\ExercicioInterface.pdb
+C:\Users\90124765858\Desktop\back_end\POO\Pilares\Interface\Exemplos\ExercicioInterface\obj\Debug\net9.0\ExercicioInterface.genruntimeconfig.cache
+C:\Users\90124765858\Desktop\back_end\POO\Pilares\Interface\Exemplos\ExercicioInterface\obj\Debug\net9.0\ref\ExercicioInterface.dll

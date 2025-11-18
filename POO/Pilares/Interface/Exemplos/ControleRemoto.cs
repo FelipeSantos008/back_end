@@ -29,9 +29,11 @@ namespace Exemplos
             if (NivelVolume == 0)
             {
                 System.Console.WriteLine($"O volume já está no minímo: {NivelVolume}");
-            }
+            } else
+            {     
             NivelVolume--;
             System.Console.WriteLine($"Diminuindo volume: {NivelVolume}");
+            }
         }
 
         public void Ligar()
@@ -40,7 +42,7 @@ namespace Exemplos
         }
         public void Desligar()
         {
-            System.Console.WriteLine("Desligando");
+            System.Console.WriteLine("Desligando ...");
         }
     }
 }
