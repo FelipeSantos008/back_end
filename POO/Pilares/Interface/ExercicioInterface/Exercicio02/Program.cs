@@ -49,10 +49,10 @@ do
             ListarFaturas();
             break;
         case 5:
-            System.Console.WriteLine("Listar Relatório");
+            ListarRelatorios();
             break;
         case 6:
-            System.Console.WriteLine("Listar Contrato");
+            ListarContratos();
             break;
         default:
             System.Console.WriteLine("Opção inválida");
